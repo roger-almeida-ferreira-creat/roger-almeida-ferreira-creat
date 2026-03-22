@@ -2,8 +2,9 @@
 
 **`Desenvolvedor`**
 
-Me chamo Roger de Almeida Ferreira, sou natural do Rio Grande do Sul, uno minha experiência profissional e estratégica de outras áreas à minha formação em Tecnologia da Informação e Engenharia de Computação(UNIVESP), focado na transição de carreira para o desenvolvimento Backend.
+Sou Roger de Almeida Ferreira, natural do Rio Grande do Sul, trago comigo uma bagagem de outras áreas, unindo minha experiência profissional e estratégica à minha formação em Tecnologia da Informação e Engenharia de Computação (UNIVESP). Essa combinação me permite entender não apenas o 'como' codificar, mas o 'porquê' por trás de cada solução. Com foco na transição de carreira para o desenvolvimento Backend, busco entregar código limpo e sistemas que impulsionem resultados reais.
 
+ 
 <p align="left">
     <a href="https://github.com/roger-almeida-ferreira-creat?tab=repositories&sort=stargazers">
         <img 
